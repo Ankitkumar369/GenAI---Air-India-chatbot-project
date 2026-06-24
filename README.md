@@ -26,7 +26,7 @@ Key features:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/pik1989/Air-India-Chatbot.git
+   git clone https://github.com/Ankitkumar369/GenAI---Air-India-chatbot-project.git
    cd Air-India-Chatbot
    ```
 
@@ -89,24 +89,4 @@ To clear the chat history, use the "Clear Chat History" button in the sidebar.
 - **No External Knowledge**: Responses are strictly limited to PDF content—no web searches or general knowledge.
 - **API Dependency**: Requires a valid xAI API key.
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements, such as:
-- Adding vector embeddings for better retrieval.
-- Supporting more document formats.
-- Enhancing error handling or UI.
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add YourFeature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/), [LangChain](https://langchain.com/), and [xAI's Grok](https://x.ai/).
-- Inspired by simple PDF Q&A tutorials for educational purposes.
